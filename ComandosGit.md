@@ -17,6 +17,8 @@
 
 - git checkout -b feature/contacts cambia de rama y si no exiite la crea
 
+->git merge feature/contacts
+
 - git restore --stage file
 - git restore --> restaura el fichero
 - git checkout file --> trae el fichero del repo
