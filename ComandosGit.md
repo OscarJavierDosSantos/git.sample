@@ -13,6 +13,9 @@
         e1e30ec Colocacion correcta de Markdown
         dc6bd92 Update  commit
         27d5808 Initial commit
+- git commit --amend --> deshace el ultimo commit y hace de nuevo el comit
+
+- git checkout -b feature/contacts cambia de rama y si no exiite la crea
 
 - git restore --stage file
 - git restore --> restaura el fichero
