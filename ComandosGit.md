@@ -23,6 +23,22 @@
 - git restore --> restaura el fichero
 - git checkout file --> trae el fichero del repo
 - git remote add origin https://github.com/OscarJavierDosSantos/git.sample.git
+
+- git branch -d <nombre_de_rama> borra la rama local
+- git branch --> Indica las ramas que tienes creadas 
+
+        C:\Users\Mañanas\IFCD0210\git.sample>git branch
+        feature/contacts
+        * main
+
+- git branch all
+        C:\Users\Mañanas\IFCD0210\git.sample>git branch all
+
+        C:\Users\Mañanas\IFCD0210\git.sample>git branch       
+        all
+        feature/contacts
+        * main
+
 - git branch -M main
 - git push -u origin main
 
